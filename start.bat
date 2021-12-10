@@ -1,0 +1,2 @@
+.\notifiyer.exe
+pause
